@@ -14,7 +14,7 @@ def reverse(i):
     return int(i[::-1])
 
 
-print(reverse(54321))
+print(reverse(12340))
 
 # Tutor solution
 """
